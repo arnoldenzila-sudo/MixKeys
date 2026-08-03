@@ -1,0 +1,66 @@
+MixKeys
+
+Visão Geral
+
+O MixKeys é um projeto open source criado para expandir as capacidades do teclado no Mixxx, transformando um teclado comum num controlador de DJ inteligente, altamente configurável e fácil de utilizar.
+
+O objetivo é oferecer uma alternativa acessível para utilizadores que não possuem um controlador MIDI ou que preferem trabalhar apenas com o teclado.
+
+Objetivos
+
+- Melhorar a experiência de utilização do Mixxx.
+- Facilitar o mapeamento de teclas.
+- Permitir perfis personalizados.
+- Criar uma interface gráfica simples e intuitiva.
+- Manter compatibilidade com Linux, especialmente Emmabuntüs.
+- Disponibilizar o projeto gratuitamente para toda a comunidade.
+
+Funcionalidades da primeira versão
+
+- Play/Pause
+- Cue
+- Sync
+- Pitch Bend
+- Pitch +
+- Pitch -
+- Crossfader
+- Volume dos Decks
+- Equalizador (Low, Mid e High)
+- Ganho
+- Loops
+- Hot Cues
+- Navegação na biblioteca
+- Carregar músicas para Deck A e Deck B
+- Ativar Headphones Cue
+- Controlo do Master Volume
+
+Funcionalidades futuras
+
+- Perfis ilimitados.
+- Sistema de camadas (Layers).
+- Macros personalizadas.
+- Compatibilidade com VirtualDJ e Traktor.
+- Suporte para controladores MIDI.
+- Integração com controladores Pioneer, Hercules, Numark e outras marcas.
+- LEDs e RGB para teclados compatíveis.
+- Sistema de plugins.
+- Atualizações automáticas.
+- Interface moderna.
+
+Público-alvo
+
+- Utilizadores do Mixxx.
+- DJs iniciantes.
+- DJs que utilizam Linux.
+- Utilizadores sem controlador físico.
+- Comunidade open source.
+
+Filosofia
+
+O MixKeys não pretende substituir um controlador profissional. O objetivo é tornar o Mixxx mais acessível, permitindo que qualquer pessoa utilize um teclado comum para controlar praticamente todas as funções do software.
+
+Estado do Projeto
+
+Fase atual: Planeamento e definição da arquitetura.
+
+Próxima etapa: Desenvolvimento da primeira versão funcional (v1.0).
