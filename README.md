@@ -1,10 +1,6 @@
 # MixKeys
 ![MixKeys Logo](assets/logo.png)
 
-<p align="center">
-  <img src="logo.png" alt="Logotipo MixKeys" width="350">
-</p>
-
 # Keyboard Performance for Mixxx
 
 Transforme qualquer teclado num poderoso controlador para o Mixxx.
