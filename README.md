@@ -1,6 +1,6 @@
 # MixKeys
 
-![Logo MixKeys](assets/logo.png)
+![Logotipo MixKeys](MK.png)
 
 # Keyboard Performance for Mixxx
 
