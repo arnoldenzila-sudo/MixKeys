@@ -1,1 +1,18 @@
+# MixKeys Default Layout
+# Version: 1.0
+# Projeto: MixKeys
+# Compatibilidade: Mixxx
+#
+# Objetivo:
+# Facilitar a transição do VirtualDJ para o Mixxx.
+#
+# Estado:
+# Em desenvolvimento.
 
+[INFO]
+NAME=MixKeys Default
+VERSION=1.0
+TARGET=Mixxx
+
+[KEYBOARD]
+# Os atalhos serão adicionados aqui nas próximas versões.
