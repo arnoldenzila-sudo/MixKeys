@@ -28,3 +28,22 @@ O MixKeys é um sistema de mapeamento de teclado para o Mixxx, desenvolvido para
 ---
 
 **One Keyboard. Infinite Mixes.**
+---
+
+Versão
+
+Versão atual: v1.0.0
+
+Estado do projeto
+
+✅ Estável
+
+Compatibilidade
+
+- Mixxx 2.4.x ou superior
+- Linux (testado no Emmabuntüs)
+- Compatível com instalação manual ou através do script "instalar.sh"
+
+---
+
+MixKeys v1.0.0 — Um teclado, infinitas mixagens.
