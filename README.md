@@ -1,6 +1,7 @@
 # MixKeys
-
-![MixKeys Logo](images/logo.png)
+<p align="center">
+  <img src="logo.png" alt="Logotipo MixKeys" width="350">
+</p>
 
 # Keyboard Performance for Mixxx
 
