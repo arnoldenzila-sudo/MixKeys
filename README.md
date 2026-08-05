@@ -1,5 +1,5 @@
 # MixKeys
-![MixKeys Logo](assets/logo.png)
+![Logo MixKeys](assets/logo.png)
 
 # Keyboard Performance for Mixxx
 
