@@ -1,0 +1,15 @@
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Logs
+*.log
+
+# Configurações do sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios de cache
+.cache/
